@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EmailInfo>
+	<SenderEmail>sales@itsolutionmm.cloud</SenderEmail>
+	<SenderName>IT-Solution</SenderName>
+	<Password>#8j8cugrv</Password>
+	<SenderHost>smtp.titan.email</SenderHost>
+	<Port>587</Port>
+	<ReceiverEmail>saiaungmyothant.developer@gmail.com;helpdesk.itsolutionmm@gmail.com</ReceiverEmail>
+	<Subject>[Report] Server Status ({0})</Subject>
+</EmailInfo>
