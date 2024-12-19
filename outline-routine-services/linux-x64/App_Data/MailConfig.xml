@@ -5,6 +5,6 @@
 	<Password>#8j8cugrv</Password>
 	<SenderHost>smtp.titan.email</SenderHost>
 	<Port>587</Port>
-	<ReceiverEmail>saiaungmyothant.developer@gmail.com;helpdesk.itsolutionmm@gmail.com</ReceiverEmail>
+	<ReceiverEmail>helpdesk.itsolutionmm@gmail.com</ReceiverEmail>
 	<Subject>[Report] Server Status ({0})</Subject>
 </EmailInfo>

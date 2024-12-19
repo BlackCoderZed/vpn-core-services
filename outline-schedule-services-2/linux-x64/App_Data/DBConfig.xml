@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DBConfiguration>
+	<Server>SQL9001.site4now.net</Server>
+	<Database>db_aaeacf_outlinemgr2</Database>
+	<Username>db_aaeacf_outlinemgr2_admin</Username>
+	<Password>2017hacker</Password>
+</DBConfiguration>

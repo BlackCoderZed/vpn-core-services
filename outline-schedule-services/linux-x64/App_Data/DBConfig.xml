@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DBConfiguration>
-	<Server>DESKTOP-1MH5R71\MIDNIGHT</Server>
-	<Database>ISOutlineManager</Database>
-	<Username>sa</Username>
+	<Server>SQL9001.site4now.net</Server>
+	<Database>db_aaeacf_outlinemgr</Database>
+	<Username>db_aaeacf_outlinemgr_admin</Username>
 	<Password>2017hacker</Password>
 </DBConfiguration>
